@@ -1,4 +1,4 @@
-// A função main
+// Seção 3 - Aula 13: A função main
 
 // Linguagem orientada a objetos
 public class Programa03 {
