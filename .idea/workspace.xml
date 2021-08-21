@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8c1811-d3ad-42b8-b89b-0bcad82a9220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programa05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programa06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Programa05">
-    <configuration name="Programa01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programa01" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Programa06">
     <configuration name="Programa02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programa02" />
       <module name="java" />
@@ -67,13 +60,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Programa06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa06" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programa06" />
         <item itemvalue="Application.Programa05" />
         <item itemvalue="Application.Programa04" />
         <item itemvalue="Application.Programa03" />
         <item itemvalue="Application.Programa02" />
-        <item itemvalue="Application.Programa01" />
       </list>
     </recent_temporary>
   </component>
