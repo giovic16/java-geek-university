@@ -2,6 +2,9 @@
 
 import java.util.Scanner;
 
+// do while
+// Esse programa recebe dados até que a idade seja menor que 0
+
 public class Programa08 {
     public static void main(String[] args) {
         int idade;

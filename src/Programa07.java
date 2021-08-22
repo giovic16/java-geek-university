@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 // Seção 5 - Aula 21: While e do while
+// while
+// Esse programa recebe dados até que a idade seja menor que 1
 public class Programa07 {
     public static void main(String[] args) {
         int idade = 1;
