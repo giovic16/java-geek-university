@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8c1811-d3ad-42b8-b89b-0bcad82a9220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programa09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programa10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programa11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programa12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/Programa07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Programa07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programa07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programa07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programa08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programa08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Programa10">
-    <configuration name="Programa06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programa06" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Programa12">
     <configuration name="Programa07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programa07" />
       <module name="java" />
@@ -57,13 +47,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programa09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programa09" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Programa10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programa10" />
       <module name="java" />
@@ -71,13 +54,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Programa11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa11" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa12" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programa12" />
+        <item itemvalue="Application.Programa11" />
         <item itemvalue="Application.Programa10" />
         <item itemvalue="Application.Programa08" />
         <item itemvalue="Application.Programa07" />
-        <item itemvalue="Application.Programa09" />
-        <item itemvalue="Application.Programa06" />
       </list>
     </recent_temporary>
   </component>
